@@ -1,5 +1,2 @@
 Top Import "config.lua"
 Import "main.lua"
-
-To "Scripts/MetaUpgradeData.lua"
-Import "main.lua"
